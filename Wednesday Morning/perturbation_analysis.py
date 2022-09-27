@@ -426,7 +426,7 @@ def plot_sensitivity_ratios_plotly(sensitivity_ratio_df, LCIA_method_names):
                      hoverlabel=dict(bgcolor="white", font_size=10,font_family="Arial")
                         )
     fig["layout"].pop("updatemenus")
-    fig.show()
+    fig.show('notebook')
 
     return
 
