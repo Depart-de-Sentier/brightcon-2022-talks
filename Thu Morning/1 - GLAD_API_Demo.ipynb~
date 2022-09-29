@@ -7,9 +7,9 @@
    "source": [
     "Copied from https://bitbucket.org/okusche/glad_api_demo/src/brightcon2022/\n",
     "\n",
-    "**Conference Notebook Kernel: `bw25`**",
-    "\n",
     "# GLAD API Demo\n",
+    "\n",
+    "**Conference Notebook Kernel: `bw25`**",
     "\n",
     "This demos how to query the GLAD index and load some data directly from online nodes into our notebook.\n",
     "\n",
